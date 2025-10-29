@@ -41,7 +41,7 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 ![alt text](<exp 5 1st.jpg>)
 
-![alt text](<exp 5 2nd.jpg>)
+
 
 **PROCEDURE:**
 
@@ -91,11 +91,13 @@ To measure IN or Isc
 
 Vi (volts)	IN (amps)
 
-![alt text](<exp 5 3rd.jpg>)
+![alt text](<exp 5 2nd.jpg>)
 	
 **MODEL CALCULATION:**
 
 Practical value of IL (from tabulation 1) =2.3mA
+
+![alt text](<exp 5 3rd.jpg>)
 
 **Verification of Norton’s theorem**
 
