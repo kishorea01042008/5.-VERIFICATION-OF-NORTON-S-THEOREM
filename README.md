@@ -39,6 +39,9 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **Norton’s equivalent circuit**
 
+![alt text](<exp 5 1st.jpg>)
+
+![alt text](<exp 5 2nd.jpg>)
 
 **PROCEDURE:**
 
@@ -87,6 +90,8 @@ Vi (volts)	RTh (Ω)
 To measure IN or Isc
 
 Vi (volts)	IN (amps)
+
+![alt text](<exp 5 3rd.jpg>)
 	
 **MODEL CALCULATION:**
 
